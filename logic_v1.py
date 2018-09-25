@@ -3,7 +3,6 @@ import columns_p5
 
 # Highscore: 7535
 
-# I turned in columns_game, not this one.
 
 class ColumnsState:
     def __init__(self):
